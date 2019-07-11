@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BlagajnApp</string>
+    <string name="btnOdustaniText">Odustani</string>
+    <string name="btnSpremiText">Izdaj račun</string>
+    <string name="tvNazivText">Naziv</string>
+    <string name="tvKolicinaText">Količina</string>
+    <string name="tvCijenaText">Cijena</string>
+    <string name="tvIznosText">Iznos</string>
+    <string name="tvUkupnoText">Ukupno:</string>
+    <string name="etUsernameHint">Korisničko ime</string>
+    <string name="PasswordHint">Lozinka</string>
+    <string name="BtnLogin">Prijava</string>
+    <string name="MenuItemTitle">Odjava</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="MenuUrediTitle">Uredi</string>
+    <string name="MenuBrisiTitle">Obriši</string>
+    <string name="RacunDialogOdustani">Odustani</string>
+    <string name="RacunDialogUredu">U redu</string>
+</resources>
